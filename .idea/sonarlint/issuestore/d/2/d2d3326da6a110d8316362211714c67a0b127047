@@ -1,0 +1,6 @@
+
+¼
+java:S1598"žThis file "Util2.java" should be located in "io/infoworks/tests/module2" directory, not in "/Users/infoworks/Documents/test_sonar/module2/src/main/java/test".(­»Ñƒ8òº›­¯1
+W
+java:S1118":Add a private constructor to hide the implicit public one.(¸ˆ¡Å8ÀöŽ­¯1
+L	java:S106"+Replace this use of System.out by a logger.(åÿ­îûÿÿÿÿ8ÁöŽ­¯1
